@@ -1,3 +1,6 @@
+* {
+    font-family: 'Merriweather', serif;
+}
 
 #Quote {
     background-color: white;
@@ -9,6 +12,7 @@
 
 button {
     color: white;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 h3 {
